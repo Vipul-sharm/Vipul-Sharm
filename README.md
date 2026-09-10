@@ -6,10 +6,10 @@
 </h1>
 
 
-<!-- 👨‍💻 DEVELOPER / CLOUD ILLUSTRATION -->
+<!-- 👨‍💻 MOVING DEVELOPER ILLUSTRATION -->
 
 <p align="center">
-  <img src="developer.png" width="650" alt="Cloud Developer Illustration">
+  <img src="developer.gif" width="650" alt="Cloud Developer Animation">
 </p>
 
 
@@ -51,8 +51,8 @@
 
 <p align="center">
 
-👋 Hi, I'm <b>Vipul Sharma</b>, an aspiring <b>AWS Cloud Engineer</b> and
-Computer Science undergraduate.
+👋 Hi, I'm <b>Vipul Sharma</b>, an aspiring <b>AWS Cloud Engineer</b>
+and Computer Science undergraduate.
 
 <br/><br/>
 
@@ -91,15 +91,15 @@ ideas into real-world cloud solutions.
 <h2 align="center">☁️ AWS Cloud Arsenal</h2>
 
 <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,linux,git,github,html,css,js,java,py&theme=dark"/>
   </a>
+
 </p>
 
 <p align="center">
-  <b>Amazon Web Services</b>
-  <br/><br/>
-  EC2 • S3 • IAM • VPC • CloudFront • Route 53 • DynamoDB
+  <b>AWS</b> • EC2 • S3 • IAM • VPC • CloudFront • Route 53 • DynamoDB
 </p>
 
 
@@ -197,15 +197,15 @@ and deployed a static website using <b>Apache HTTP Server</b>.
 
 <p align="center">
 
-  <b>AWS Cloud Computing Intern</b>
+<b>AWS Cloud Computing Intern</b>
 
-  <br/>
+<br/>
 
-  <b>Appwars Technologies</b>
+<b>Appwars Technologies</b>
 
-  <br/>
+<br/>
 
-  Aug 2024 – Nov 2024
+Aug 2024 – Nov 2024
 
 </p>
 
@@ -276,9 +276,9 @@ GUVI
 </div>
 
 
-<!-- 📊 GITHUB & CODING STATS -->
+<!-- 📊 GITHUB STATS -->
 
-<h2 align="center">📊 GitHub & Coding Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -352,7 +352,5 @@ alt="Snake Animation"/>
 <br/>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vipul-sharm&label=Profile%20Views&color=00FF99&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Vipul-sharm&label=Profile%20Views&color=00FF99&style=flat"/>
 </p>
